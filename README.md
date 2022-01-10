@@ -5,6 +5,7 @@ Program which shows the shortest way between given points. Enjoy!
 
 ## Prerequisites:
 * PySimpleGUI:
+
  `pip install PySimpleGUI`
 
 
